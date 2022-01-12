@@ -1,8 +1,8 @@
 # Master-s-Degree-project
 For Master's Degree Project I worked on machine learning on the edge.
-
-
 Use case of project was to achieve real-time demography analytics using computer vision on Nvidia Jetson TX2 device.
+
+The project is described in more details in the presentation and whitepaper which are provided in this repo.
 
 ## Arhitecture 
 
@@ -49,10 +49,4 @@ records in PostgreSQL database. Apache Superset visualizes data written in Postg
 TensorFlow container is used for model training.
 Training metrics are saved inside PostgreSQL using MLFlow server and
 trained models are saved in MinIO object storage.
-
-## detalji
-
-Project is 
-Projekat je detaljnije opisa u .... kao i u prezentaciji.....
-
 
