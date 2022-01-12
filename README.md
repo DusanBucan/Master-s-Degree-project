@@ -4,15 +4,14 @@ For Master's Degree Project I worked on machine learning on the edge.
 
 Use case of project was to achieve real-time demography analytics using computer vision on Nvidia Jetson TX2 device.
 
+## Arhitecture 
 
 System contains three submodules:
  1. Machine learning on the edge on Jetson
  2. Real-time analytics submodule on central server
  3. MLOps submodule
 
-### 
-
-
+![alt text](https://github.com/DusanBucan/Master-s-Degree-project/blob/main/ML%40Edge%20using%20Jetson%20device.png)
 
 
 
@@ -50,3 +49,10 @@ records in PostgreSQL database. Apache Superset visualizes data written in Postg
 TensorFlow container is used for model training.
 Training metrics are saved inside PostgreSQL using MLFlow server and
 trained models are saved in MinIO object storage.
+
+## detalji
+
+Project is 
+Projekat je detaljnije opisa u .... kao i u prezentaciji.....
+
+
